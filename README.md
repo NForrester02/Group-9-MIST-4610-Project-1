@@ -35,6 +35,8 @@ Data Model
 
 
 Data Dictionary
+
+
 <img width="500" alt="Screenshot 2024-03-27 at 4 51 50 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/6fdde76c-7664-497e-9087-b8e53bb85e8e">
 <img width="491" alt="Screenshot 2024-03-27 at 4 53 29 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/496bfa10-3e51-474f-9858-8a36c3a70f3c">
 <img width="504" alt="Screenshot 2024-03-27 at 4 54 17 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/e97006fd-ef4e-44c1-8339-4d3f6d6522bc">
@@ -46,44 +48,55 @@ Queries
 
 1. Write a query to list the patient's last name, first name, appointment date, and description. Order the results by last name in the descending alphabetical order.
 ##Query 1 allows staff to see all the appointments that haven been made by last name in order to check on specific customer appointment dates if changes need to be made or just have an overall view of all appointments.
+<img width="491" alt="Screenshot 2024-03-27 at 5 03 45 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/61bd4c2f-d55b-4503-b457-a6fbdf6546bf">
 
 
 2. Write a query to list patient last name, firstname, and phone number for patient that do not have a home address in Georgia
 Query 2 allows staff to see which customers are from out of town. This allows them to contact them via phone number for additional paperwork information that may be required for out of state patients.  
+<img width="408" alt="Screenshot 2024-03-27 at 5 03 56 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/30ac49a2-177b-443f-a355-18e861d81cf7">
 
 
 3. Write a query to list out the patient's last name, firstname, billing amount, & payment status for patients who haven't paid their bill. 
 Query 3 allows staff to quickly identify who hasn't paid their bills and give their contact information. If bills aren't being paid the business loses money so it's important to keep track of these things.  
+<img width="376" alt="Screenshot 2024-03-27 at 5 04 12 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/3be370c7-3cae-4c76-b338-7a0b35583a2d">
 
 
 4. List Patients and a count of their visits, whose total visits is greater than 3.
 This allows the hospital manager to find their repeat patients.
+<img width="481" alt="Screenshot 2024-03-27 at 5 04 35 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/fb1ecf1e-445c-4ad1-ad15-1048412b48d1">
 
 
 5. Write a query to list the patient last name, first name, the number of payments they have made and total amount of payments they have made expressed as a percentage. 
 Do this for only patients with Cigna insurance and express the total amount percentage based on the pool of Cigna based patients.
 Query 5 allows an analyst to understand the payment behaviors of Cigna insurance users. This is important in making insurance partnerships in the future and analyzing the percentage of payments paid that are owed based on what insurance you use. This can correlate to if insurance premiums of certain insurance companies are too high or not based on the percentage of payments that are due, that customers can make.
+<img width="501" alt="Screenshot 2024-03-27 at 5 04 49 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/05510583-afd0-46da-9159-e9ae1e5ce9bd">
 
 
 6. Find Patients who were born in 2022 or 2023 and have an emergency contact whose relationship is not mother or father.
 This query would allow the hospital managers to identify patients at risk of misunderstood information and in need of Child Services
 
+<img width="384" alt="Screenshot 2024-03-27 at 5 05 04 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/c9db6375-36ba-49f3-8fa3-c6f86256b139">
 
 
 7. Show the names of each staff member and the number of appointments they have if their total number of appointments is less than 5. 
 This query would allow the hospital manager to get a glimpse of which staff members have been underutilized and are available for a larger workload.
+<img width="385" alt="Screenshot 2024-03-27 at 5 05 22 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/cea6494d-7c17-4dcb-9b29-5b836c0159c3">
 
 
 
 8. List appointments that were not seen by doctors 8-15
 These doctors were flagged for unsanitary practices and thus we want to separate the flagged appointments from those that do not carry legal risk.
+<img width="397" alt="Screenshot 2024-03-27 at 5 05 40 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/d46ab0b2-2ad5-4321-9103-f2507e1d66ef">
+
 
 
 9. Find patients who have paid a balance greater than 1.5x the average total amount, and have not paid in full.
 This allows a hospital manager to see which patients are likely to have recurring, long-term financial payments, as the expensive treatments are often for chronic and severe conditions. Also, it shows the hospital which patients are at risk for major financial issues due to financial default.
+<img width="470" alt="Screenshot 2024-03-27 at 5 06 18 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/ff551b62-f63e-4a54-aab6-81e919fd1ea0">
 
 
 
 10. Lists Dermatology Staff Availability in October.
 This is useful for Receptionists when scheduling appointments in a given department, as Staff are not always available
 
+<img width="471" alt="Screenshot 2024-03-27 at 5 06 29 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/be817561-6acb-4e08-81b1-497891d18904">
