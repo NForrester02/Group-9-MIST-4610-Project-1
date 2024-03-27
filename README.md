@@ -7,11 +7,11 @@ Rohan Gehani [@RohanGeh]()
 
 TJ Anderson: [@sta64960]()
 
-Nick Forrester: @NForrester02
+Nick Forrester: [@NForrester02]()
 
-Zackary Williams : @zackwilliams10
+Zackary Williams : [@zackwilliams10]()
 
-Karan Sampath: @ksampath0
+Karan Sampath: [@ksampath0]()
 
 # Prompt A
 
@@ -120,3 +120,8 @@ This allows a hospital manager to see which patients are likely to have recurrin
 This is useful for Receptionists when scheduling appointments in a given department, as Staff are not always available
 
 <img width="471" alt="Screenshot 2024-03-27 at 5 06 29 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/be817561-6acb-4e08-81b1-497891d18904">
+
+
+<img width="534" alt="Screenshot 2024-03-27 at 5 28 24 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/32cbb2a3-1fe5-4bff-a717-94e9fdc42dc0">
+
+
