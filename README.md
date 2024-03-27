@@ -3,15 +3,15 @@
 
 
 # Team Members
-Rohan Gehani [@RohanGeh]()
+Rohan Gehani [@RohanGeh](https://github.com/RohanGeh)
 
-TJ Anderson: [@sta64960]()
+TJ Anderson: [@sta64960](https://github.com/sta64960)
 
-Nick Forrester: [@NForrester02]()
+Nick Forrester: [@NForrester02](https://github.com/NForrester02)
 
-Zackary Williams : [@zackwilliams10]()
+Zackary Williams : [@zackwilliams10](https://github.com/zackwilliams10)
 
-Karan Sampath: [@ksampath0]()
+Karan Sampath: [@ksampath0](https://github.com/ksampath0)
 
 # Prompt A
 
