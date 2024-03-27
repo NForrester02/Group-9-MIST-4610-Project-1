@@ -3,10 +3,14 @@
 
 
 # Team Members
-Rohan Gehani 
+Rohan Gehani [@RohanGeh]()
+
 TJ Anderson: [@sta64960]()
+
 Nick Forrester: @NForrester02
+
 Zackary Williams : @zackwilliams10
+
 Karan Sampath: @ksampath0
 
 # Prompt A
