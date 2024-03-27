@@ -125,3 +125,9 @@ This is useful for Receptionists when scheduling appointments in a given departm
 <img width="534" alt="Screenshot 2024-03-27 at 5 28 24 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/32cbb2a3-1fe5-4bff-a717-94e9fdc42dc0">
 
 
+
+# Database Information
+Name of the database: ns_Sp24_21484_Group9
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1
+
+
