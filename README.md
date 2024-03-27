@@ -3,15 +3,15 @@
 
 
 # Team Members
-Rohan Gehani [@RohanGeh]()
+Rohan Gehani [@RohanGeh](https://github.com/RohanGeh)
 
-TJ Anderson: [@sta64960]()
+TJ Anderson: [@sta64960](https://github.com/sta64960)
 
 Nick Forrester: [@NForrester02](https://github.com/NForrester02)
 
-Zackary Williams : [@zackwilliams10]()
+Zackary Williams : [@zackwilliams10](https://github.com/zackwilliams10)
 
-Karan Sampath: [@ksampath0]()
+Karan Sampath: [@ksampath0](https://github.com/ksampath0)
 
 # Prompt A
 
@@ -123,5 +123,11 @@ This is useful for Receptionists when scheduling appointments in a given departm
 
 
 <img width="534" alt="Screenshot 2024-03-27 at 5 28 24 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/32cbb2a3-1fe5-4bff-a717-94e9fdc42dc0">
+
+
+
+# Database Information
+Name of the database: ns_Sp24_21484_Group9
+Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1
 
 
