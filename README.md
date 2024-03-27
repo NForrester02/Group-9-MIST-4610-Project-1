@@ -1,14 +1,23 @@
 # Group-9-MIST-4610-Project-1
 
-Prompt A
+
+
+# Team Members
+Rohan Gehani 
+TJ Anderson: [@sta64960]()
+Nick Forrester: @NForrester02
+Zackary Williams : @zackwilliams10
+Karan Sampath: @ksampath0
+
+# Prompt A
 
 Pretend you are the owner/operator of an emergency healthcare clinic needing to build a relational database. You hired some students from the MIST 4610 class at the University of Georgia to create the database for you. They need to know more about your organization to identify which entities, attributes, and relationships are important for you. Start by describing your business as a real client
 
-Problem Description:
+# Problem Description:
 
 Part of the challenge given to us is to model and create a database that manages a healthcare clinic. The heart of the database is the Patient entity. We started with this entity as it is the core of the clinic. The people represented are the ones who seek medical attention and the services provided by the clinic. The patient’s entity correlates with many other entities such as Appointments, Medical Records, Billing, and Insurance Companies, Emergency Contacts, Referrals, and Appointments. All of these entities ensure the health clinic has all the appropriate information about the patient properly stored. We also have entities that help the clinic operate such as Staff, Shift Schedules, Emergency Cases, Medical Tests, and Medical Procedures. The other tasks include accurately modeling these entities into a database. We also have to create sample data to populate the databases. Lastly, we have to create practical and useful queries on this data to extract meaningful insight.
 
-Explanation of data model:
+# Explanation of data model:
 
 We created a model based on a hypothetical emergency clinic. The heart of our model centered around the patient entity which stores information about each patient that came to visit the clinic. Inside this entity, there is a foreign key that correlates to the primary key of emergency contacts, expressing a one-to-one relationship between the two, showing that each patient has one emergency contact. 
 	
@@ -28,36 +37,43 @@ The model also captures when a staff member is scheduled to work a shift. There 
                         
 
 
-Data Model
+# Data Model
 
 
-<img width="485" alt="Screenshot 2024-03-27 at 4 48 44 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/05f1d928-88e7-45fe-b9a7-37b7bb80c66f">
+<img width="498" alt="Screenshot 2024-03-27 at 5 14 44 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/27248576-7cce-4b49-96f0-74f5721c76b1">
 
 
-Data Dictionary
+
+# Data Dictionary
 
 
 <img width="500" alt="Screenshot 2024-03-27 at 4 51 50 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/6fdde76c-7664-497e-9087-b8e53bb85e8e">
+
 <img width="491" alt="Screenshot 2024-03-27 at 4 53 29 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/496bfa10-3e51-474f-9858-8a36c3a70f3c">
+
 <img width="504" alt="Screenshot 2024-03-27 at 4 54 17 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/e97006fd-ef4e-44c1-8339-4d3f6d6522bc">
+
 <img width="498" alt="Screenshot 2024-03-27 at 4 55 10 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/f79911d6-47d4-42fc-b511-f838d3756e47">
 
 <img width="512" alt="Screenshot 2024-03-27 at 4 55 32 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/e449262b-c1fc-4f8e-bde6-43bcf6237d3f">
 
-Queries
+# Queries
 
-1. Write a query to list the patient's last name, first name, appointment date, and description. Order the results by last name in the descending alphabetical order.
-##Query 1 allows staff to see all the appointments that haven been made by last name in order to check on specific customer appointment dates if changes need to be made or just have an overall view of all appointments.
+1. Write a query to list the patient's last name, first name, and appointment date. Order the results by last name in the descending alphabetical order.
+##Query 1 allows staff to see all the appointments that have been made by last name in order to check on specific customer appointment dates if changes need to be made or just have an overall view of all appointments. 
+
 <img width="491" alt="Screenshot 2024-03-27 at 5 03 45 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/61bd4c2f-d55b-4503-b457-a6fbdf6546bf">
 
 
-2. Write a query to list patient last name, firstname, and phone number for patient that do not have a home address in Georgia
-Query 2 allows staff to see which customers are from out of town. This allows them to contact them via phone number for additional paperwork information that may be required for out of state patients.  
+2. Write a query to list patient last name, firstname, and phone number for patients that have phone numbers with area code in Athens, GA.
+##Query 2 allows staff to see which customers are from Athens, GA. This allows them to contact them via phone number for additional promotional offers for Athens residents.
+ 
 <img width="408" alt="Screenshot 2024-03-27 at 5 03 56 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/30ac49a2-177b-443f-a355-18e861d81cf7">
 
 
-3. Write a query to list out the patient's last name, firstname, billing amount, & payment status for patients who haven't paid their bill. 
-Query 3 allows staff to quickly identify who hasn't paid their bills and give their contact information. If bills aren't being paid the business loses money so it's important to keep track of these things.  
+3. Write a query to list out the patient's last name, firstname, phone number, billing amount and payment status for patients who haven't paid their bill. 
+##Query 3 allows staff to quickly identify who hasn't paid their bills and give their contact information. If bills aren't being paid the business loses money so it's important to keep track of these things.  
+ 
 <img width="376" alt="Screenshot 2024-03-27 at 5 04 12 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/3be370c7-3cae-4c76-b338-7a0b35583a2d">
 
 
@@ -66,9 +82,9 @@ This allows the hospital manager to find their repeat patients.
 <img width="481" alt="Screenshot 2024-03-27 at 5 04 35 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/fb1ecf1e-445c-4ad1-ad15-1048412b48d1">
 
 
-5. Write a query to list the patient last name, first name, the number of payments they have made and total amount of payments they have made expressed as a percentage. 
-Do this for only patients with Cigna insurance and express the total amount percentage based on the pool of Cigna based patients.
-Query 5 allows an analyst to understand the payment behaviors of Cigna insurance users. This is important in making insurance partnerships in the future and analyzing the percentage of payments paid that are owed based on what insurance you use. This can correlate to if insurance premiums of certain insurance companies are too high or not based on the percentage of payments that are due, that customers can make.
+5. Write a query to list the patient last name, first name, the number of payments they have made and total amount of payments they have made expressed as a percentage. Do this for only patients with Geico insurance and express the total amount percentage based on the pool of Geico based patients.
+##Query 5 allows an analyst to understand the payment behaviors of Geico insurance users. This is important in making insurance partnerships in the future and analyzing the percentage of payments paid that are owed based on what insurance you use. This can correlate to if insurance premiums of certain insurance companies are too high or not based on the percentage of payments that are due, that customers can make.
+
 <img width="501" alt="Screenshot 2024-03-27 at 5 04 49 PM" src="https://github.com/RohanGeh/Group-9-MIST-4610-Project-1/assets/150191828/05510583-afd0-46da-9159-e9ae1e5ce9bd">
 
 
