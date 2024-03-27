@@ -7,7 +7,7 @@ Rohan Gehani [@RohanGeh]()
 
 TJ Anderson: [@sta64960]()
 
-Nick Forrester: [@NForrester02]()
+Nick Forrester: [@NForrester02](https://github.com/NForrester02)
 
 Zackary Williams : [@zackwilliams10]()
 
